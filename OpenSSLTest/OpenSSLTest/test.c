@@ -26,6 +26,7 @@ int main()
 	printf("md5 value: %s\n", result);
 	
 	printf("hello world\n");
+	printf("hello world\n");
 	system("pause");
 	return 0;
 }

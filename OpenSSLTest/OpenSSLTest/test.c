@@ -24,6 +24,8 @@ int main()
 	char result[33] = { 0 };
 	getMD5("hello, md5", result);
 	printf("md5 value: %s\n", result);
+	
+	printf("hello world\n");
 	system("pause");
 	return 0;
 }
